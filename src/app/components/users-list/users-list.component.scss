@@ -1,0 +1,36 @@
+table {
+  width: 60%;
+  margin-left: 17em;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.mat-elevation-z8 {
+  box-shadow: none !important;
+}
+::ng-deep .mat-paginator {
+    background: #0000;
+    margin-right: 260px;
+  }
+
+.mat-form-field {
+  font-size: 14px;
+  width: 20%;
+  margin-left: 245px;
+  margin-top: 50px;
+}
+.addNewUserBtn{
+  margin-left: 410px;
+}
+
+td,
+th {
+  width: 25%;
+}
+
+// ::ng-deep .mat-paginator-container {
+//   margin-right: 15em !important;
+// }
+// .mat-form-field-infix {
+//   margin-left: 20em;
+//   margin-top: 136px;
+// }
